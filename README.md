@@ -4,17 +4,17 @@ KiwisIoT
 
 📌 About the Project
 
-Smart Bathroom Automation Using ESP32 with KiwisIoT is an IoT-based home automation project designed to improve bathroom convenience, hygiene, and efficient resource management.
+IoT-Based Aquaponics System Using ESP32 & KiwisIoT is an IoT-based smart agriculture project designed to monitor and manage an aquaponics environment, where fish farming and plant cultivation work together in a sustainable system.
 
-Using the ESP32 microcontroller and connected sensors, the system monitors bathroom conditions and automates functions such as lighting, water usage, and ventilation based on sensor inputs.
+Using the ESP32 microcontroller and connected sensors, the system monitors important water and environmental parameters such as water temperature, water level, pH level, and other conditions that influence fish health and plant growth.
 
-The collected sensor data is transmitted through Wi-Fi to the KiwisIoT platform, where users can monitor bathroom conditions and connected device status through an online dashboard from anywhere.
+The collected sensor data is transmitted through Wi-Fi to the KiwisIoT platform, where users can visualize and monitor aquaponics system conditions through an online dashboard from anywhere.
 
-This project demonstrates how IoT technology can be used to create a smarter bathroom environment by reducing manual operations, improving convenience, and supporting efficient energy and water usage.
+This project helps users monitor water conditions, maintain a suitable environment for fish and plants, and demonstrates how IoT technology can support sustainable farming, smart agriculture, and efficient resource management.
 
 
 Project link:
-https://www.hackster.io/yuvansris2002/iot-based-aquaponics-system-using-esp32-kiwisiot-cbb897
+[https://www.hackster.io/yuvansris2002/iot-based-aquaponics-system-using-esp32-kiwisiot-cbb897](https://www.hackster.io/yuvansris2002/iot-based-aquaponics-system-using-esp32-kiwisiot-cbb897)
 
 Learn More:
 https://github.com/Kiwistron/KiwisIoT-Projects/tree/main/esp8266/001-ldr-kiwisiot
